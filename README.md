@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
@@ -237,3 +238,6 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 ## Copyright and license
 
 Code and documentation copyright 2011–2021 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+=======
+# wangnamlad
+>>>>>>> 657eec16e453fd90b91ec9f54e4bef846cfb98e9
